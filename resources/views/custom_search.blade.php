@@ -89,9 +89,7 @@
             <br />
   </div>
   </body>
-</html>
-
-<script>
+  <script>
 $(document).ready(function(){
 
     fill_datatable();
@@ -167,3 +165,4 @@ $(document).ready(function(){
 
 });
 </script>
+</html>
